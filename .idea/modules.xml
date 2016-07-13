@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SlidingMenu-master/SlidingMenu-master.iml" filepath="$PROJECT_DIR$/SlidingMenu-master/SlidingMenu-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.itheima.zhbj74/com.itheima.zhbj74.iml" filepath="$PROJECT_DIR$/com.itheima.zhbj74/com.itheima.zhbj74.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhbj742.iml" filepath="$PROJECT_DIR$/zhbj742.iml" />
+    </modules>
+  </component>
+</project>
